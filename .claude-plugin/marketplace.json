@@ -1,0 +1,22 @@
+{
+  "name": "fine-print-reader",
+  "owner": {
+    "name": "Nabhyaraj Sonagara",
+    "url": "https://github.com/Nabhyaraj-Sonagara"
+  },
+  "metadata": {
+    "description": "Read legal documents from photos: clean PDF, plain-language summary, and risky-clause flags.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "fine-print-reader",
+      "source": "./fine-print-reader",
+      "description": "Turn photos of a legal document into a clean PDF, a plain-language summary, and a list of risky clauses with quotes and risk levels.",
+      "version": "0.1.0",
+      "author": { "name": "Nabhyaraj Sonagara" },
+      "category": "productivity",
+      "keywords": ["legal", "contracts", "lease", "scan", "pdf", "ocr"]
+    }
+  ]
+}

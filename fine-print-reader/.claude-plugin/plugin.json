@@ -1,0 +1,22 @@
+{
+  "name": "fine-print-reader",
+  "version": "0.1.0",
+  "description": "Turn photos of a legal document into a clean PDF, a plain-language summary, and a list of risky clauses with quotes and risk levels.",
+  "author": {
+    "name": "Nabhyaraj Sonagara",
+    "url": "https://github.com/Nabhyaraj-Sonagara"
+  },
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "contracts",
+    "lease",
+    "scan",
+    "pdf",
+    "document",
+    "ocr",
+    "fine print"
+  ],
+  "homepage": "https://github.com/Nabhyaraj-Sonagara/fine-print-reader",
+  "repository": "https://github.com/Nabhyaraj-Sonagara/fine-print-reader"
+}
